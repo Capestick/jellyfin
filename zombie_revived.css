@@ -42,7 +42,7 @@ h4 {
 }
 .layout-mobile .backgroundContainer,
 .layout-desktop .backgroundContainer {
-  background: url(https://cdn.jsdelivr.net/gh/Capestick/jellyfin@latest/logo/jellyfin-logo-light.png)
+  background: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/gradients/blue.png)
     no-repeat center center;
 }
 .sectionTitleContainer-cards {
